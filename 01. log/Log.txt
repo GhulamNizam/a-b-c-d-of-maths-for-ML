@@ -1,0 +1,11 @@
+* inverse of exponential
+* How many of one number multiply together to make another 
+* Common Logarithms: Base 10
+
+1. The basic form of a logarithm is written as: log(base, number) = result.
+
+2. The "base" is the number you're starting with, and the "number" is the result you want to find out how many times you need to multiply the base by itself to get.
+
+3. The "result" is the answer, which tells you how many times you need to multiply the base to reach the number.
+
+For example, if you have log base 2 of 8 (written as log₂(8)), it's asking: "How many times do I need to multiply 2 by itself to get 8?" The answer is 3 because 2 x 2 x 2 = 8.
